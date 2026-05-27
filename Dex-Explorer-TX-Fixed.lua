@@ -1,5 +1,4 @@
 -- https://github.com/LorekeeperZinnia/Dex
-
 --[[
 	Dex
 	Created by Moon
